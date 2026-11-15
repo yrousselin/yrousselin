@@ -24,5 +24,7 @@ Each project has an English (README) and a French (LISEZMOI) guide, with install
 
 ## 📫 Contact
 
+- Website (CV & full publication list): <https://yrousselin.github.io>
+- ORCID: [0000-0002-6702-1303](https://orcid.org/0000-0002-6702-1303)
 - Email: yoann.rousselin@u-bourgogne.fr
 - Questions or bug reports: open an *Issue* in the relevant project.
