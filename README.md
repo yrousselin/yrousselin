@@ -20,6 +20,12 @@ I determine crystal structures for chemistry research teams, and I write small *
 | [gsasii-cellsearch](https://github.com/yrousselin/gsasii-cellsearch) | Search COD, CSD and local CIF folders by unit cell |
 | [gsasii-phasematch](https://github.com/yrousselin/gsasii-phasematch) | Interactive phase identification (search-match) in powder patterns |
 
+## 💎 Tools for Bruker APEX6
+
+| Project | What it does |
+|---|---|
+| [apex6-report](https://github.com/yrousselin/apex6-report) | Experimental report from APEX6 / SAINT files (cell, data collection, statistics, data-quality summary), as a macOS / Windows app or a Python script |
+
 Each project has an English (README) and a French (LISEZMOI) guide, with installation instructions for macOS and Windows.
 
 ## 📫 Contact
