@@ -17,6 +17,7 @@ I determine crystal structures for chemistry research teams, and I write small *
 
 | Project | What it does |
 |---|---|
+| [gsasii-autoindex](https://github.com/yrousselin/gsasii-autoindex) | Auto-indexing of powder patterns with several methods (Conograph, dichotomy, trial-and-error, GSAS-II) |
 | [gsasii-cellsearch](https://github.com/yrousselin/gsasii-cellsearch) | Search COD, CSD and local CIF folders by unit cell |
 | [gsasii-phasematch](https://github.com/yrousselin/gsasii-phasematch) | Interactive phase identification (search-match) in powder patterns |
 
