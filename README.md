@@ -29,6 +29,14 @@ I determine crystal structures for chemistry research teams, and I write small *
 
 Each project has an English (README) and a French (LISEZMOI) guide, with installation instructions for macOS and Windows.
 
+## 🚵 Outside the lab
+
+High-level endurance athlete for more than twenty years:
+- **Canoe-kayak (international level):** 6th and 10th at the Marathon World Championships (K2, 2002 and 2008), 5th at the U23 European Championships (K4 1000 m, 2002).
+- **Marathon mountain biking (Masters):** 6th at the French Championships (2022, 2025), winner of the Bourgogne-Franche-Comté Cup (2022), two-time finisher of the MB Race, billed by its organiser as the hardest mountain-bike race in the world.
+
+More on the [website](https://yrousselin.github.io/#sport).
+
 ## 📫 Contact
 
 - Website (CV & full publication list): <https://yrousselin.github.io>
